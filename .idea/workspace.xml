@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39c9b77-5a7f-4330-bd39-dc7fe774af4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CentralLimitTheorem/Distribution_Sum_RV.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CentralLimitTheorem/Exponentially_Distributed_RV.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="Three_State_Markov_Chain.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="e#171#189#0" expanded="true" />
               </folding>
@@ -27,13 +27,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Google_Page_Rank_Algorithm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Google_Page_Rank_Algorithm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="765">
               <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="e#202#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exponentially_Distributed_RV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/Exponentially_Distributed_RV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#217#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Distribution_Sum_RV.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/Distribution_Sum_RV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding>
+                <element signature="e#166#184#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,13 +87,16 @@
         <option value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
         <option value="$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py" />
         <option value="$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py" />
+        <option value="$PROJECT_DIR$/CentralLimitTheorem/Exponentially_Distributed_RV.py" />
+        <option value="$PROJECT_DIR$/CentralLimitTheorem/Distribution_Sum_RV.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2439" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,24 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Google_Page_Rank_Algorithm">
-    <configuration name="ConfidenceInterval1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Confidence Interval Experiments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Distribution_Sum_RV">
     <configuration name="ConfidenceInterval2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +189,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ExponentiallyDistributedRV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Distribution_Sum_RV" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,7 +201,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CentralLimitTheorem/ExponentiallyDistributedRV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CentralLimitTheorem/Distribution_Sum_RV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Exponentially_Distributed_RV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CentralLimitTheorem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CentralLimitTheorem/Exponentially_Distributed_RV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,19 +258,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exponentially_Distributed_RV" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Distribution_Sum_RV" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Distribution_Sum_RV" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exponentially_Distributed_RV" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
       </list>
     </recent_temporary>
   </component>
@@ -261,13 +288,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50104386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34270832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3329776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -414,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="e#171#189#0" expanded="true" />
           </folding>
@@ -424,10 +451,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="765">
           <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
             <element signature="e#202#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/Exponentially_Distributed_RV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#217#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/Distribution_Sum_RV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <element signature="e#166#184#0" expanded="true" />
           </folding>
         </state>
       </provider>
