@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c39c9b77-5a7f-4330-bd39-dc7fe774af4e" name="Default" comment="" />
+    <list default="true" id="c39c9b77-5a7f-4330-bd39-dc7fe774af4e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExponentiallyDistributedRV.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/ExponentiallyDistributedRV.py">
+      <file leaf-file-name="ConfidenceInterval1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
-                <element signature="e#297#315#0" expanded="true" />
+                <element signature="e#137#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfidenceInterval2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <element signature="e#168#186#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,6 +59,8 @@
         <option value="$PROJECT_DIR$/Transmission Experiments/Conditional_Probability.py" />
         <option value="$PROJECT_DIR$/Transmission Experiments/Enchanced_Transmission.py" />
         <option value="$PROJECT_DIR$/CentralLimitTheorem/ExponentiallyDistributedRV.py" />
+        <option value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
+        <option value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
       </list>
     </option>
   </component>
@@ -88,6 +106,11 @@
             <path>
               <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Confidence Interval Experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Stochastic Experiments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -114,24 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ExponentiallyDistributedRV">
-    <configuration name="BernoulliTrials" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binomial_Poisson_Distribution" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binomial_Poisson_Distribution/BernoulliTrials.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ConfidenceInterval2">
     <configuration name="Binomial Distribution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,19 +155,36 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Enchanced_Transmission" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ConfidenceInterval1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Transmission Experiments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Confidence Interval Experiments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Transmission Experiments/Enchanced_Transmission.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ConfidenceInterval2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Confidence Interval Experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,19 +224,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Enchanced_Transmission" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BernoulliTrials" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BernoulliTrials" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Enchanced_Transmission" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
       </list>
     </recent_temporary>
   </component>
@@ -355,9 +378,29 @@
     <entry file="file://$PROJECT_DIR$/CentralLimitTheorem/ExponentiallyDistributedRV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="e#297#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#137#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="e#168#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
