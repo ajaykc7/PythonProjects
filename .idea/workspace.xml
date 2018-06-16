@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39c9b77-5a7f-4330-bd39-dc7fe774af4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,25 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConfidenceInterval1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py">
+      <file leaf-file-name="Three_State_Markov_Chain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
               <folding>
-                <element signature="e#137#155#0" expanded="true" />
+                <element signature="e#171#189#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfidenceInterval2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py">
+      <file leaf-file-name="Google_Page_Rank_Algorithm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
-                <element signature="e#168#186#0" expanded="true" />
+                <element signature="e#202#220#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,6 +61,8 @@
         <option value="$PROJECT_DIR$/CentralLimitTheorem/ExponentiallyDistributedRV.py" />
         <option value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval1.py" />
         <option value="$PROJECT_DIR$/Confidence Interval Experiments/ConfidenceInterval2.py" />
+        <option value="$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py" />
+        <option value="$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py" />
       </list>
     </option>
   </component>
@@ -111,6 +113,11 @@
             <path>
               <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Markov Chain Experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Stochastic Experiments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,24 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConfidenceInterval2">
-    <configuration name="Binomial Distribution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binomial_Poisson_Distribution" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binomial_Poisson_Distribution/Binomial Distribution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Google_Page_Rank_Algorithm">
     <configuration name="ConfidenceInterval1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,37 +196,54 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PoissonDistribution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Google_Page_Rank_Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binomial_Poisson_Distribution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Markov Chain Experiments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binomial_Poisson_Distribution/PoissonDistribution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Three_State_Markov_Chain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Markov Chain Experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PoissonDistribution" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Binomial Distribution" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Google_Page_Rank_Algorithm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Three_State_Markov_Chain" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ConfidenceInterval2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ConfidenceInterval1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ExponentiallyDistributedRV" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +408,26 @@
           <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
             <element signature="e#168#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Three_State_Markov_Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#171#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Markov Chain Experiments/Google_Page_Rank_Algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#202#220#0" expanded="true" />
           </folding>
         </state>
       </provider>
